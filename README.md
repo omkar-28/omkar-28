@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **omikhatavkar2@gmail.com**
 
-- 📄 Know about my experiences [Omkar_khatavkr](https://github.com/omkar-28/portfolio/blob/main/src/assets/omkar_khatavkar_resume.pdf)
+- 📄 Know about my experiences [Omkar_khatavkar](https://github.com/omkar-28/portfolio/blob/main/src/assets/omkar_khatavkar_resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
