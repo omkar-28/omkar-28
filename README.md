@@ -3,11 +3,11 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkar-28&label=Profile%20views&color=0e75b6&style=flat" alt="omkar-28" /> </p>
 
-- 🔭 I’m currently working on **E-commerce application**
+- 🔭 I’m currently working on E-commerce application
 
-- 🌱 I’m currently learning **Node.Js and mongoDB**
+- 🌱 I’m currently learning Node.Js and mongoDB
 
-- 📫 How to reach me **omikhatavkar2@gmail.com**
+- 📫 How to reach me omikhatavkar2@gmail.com
 
 - 📄 Know about my experiences [Omkar_khatavkar](https://github.com/omkar-28/portfolio/blob/main/src/assets/omkar_khatavkar_resume.pdf)
 
