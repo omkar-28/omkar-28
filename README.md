@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Omkar Khatavkar</h1>
 <h3 align="center">A frontend developer from India</h3>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkar-28&label=Profile%20views&color=0e75b6&style=flat" alt="omkar-28" /> </p>
 
-- 🔭 I’m currently working on **E-commerce application for client DCT Specialties, Inc**
+- 🔭 I’m currently working on **E-commerce application**
 
 - 🌱 I’m currently learning **Node.Js and mongoDB**
 
-- 👨‍💻 All of my projects are available at [https://omkar-khatavkar.vercel.app/](https://omkar-khatavkar.vercel.app/)
-
 - 📫 How to reach me **omikhatavkar2@gmail.com**
+
+- 📄 Know about my experiences [Omkar_khatavkr](https://github.com/omkar-28/portfolio/blob/main/src/assets/omkar_khatavkar_resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
